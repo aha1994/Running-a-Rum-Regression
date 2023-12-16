@@ -8,6 +8,10 @@ In this file we create a script to web scrape data from the 16,222 rums on the [
 
 In this notebook we create a host of visualizations and look at a how a few key features might impact a rum's price and community rating. At the end, we create a function to generate tasting note co-occurrence heat maps to explore flavor profiles of rums from various countries. 
 
+![Alt text](https://github.com/aha1994/Running-a-Rum-Regression/blob/main/Pictures/HeatMapCompare.png)
+
 **Still Strength Statistics**
 
 Finally, we take a statistical look at how some of the features we visually explored in the previous notebook explain rating and price. Using ANOVA and linear regression models we see what relationships are statistically significant and visualize if our models meet the assumptions for these types of analyses.
+
+![Alt text](https://github.com/aha1994/Running-a-Rum-Regression/blob/main/Pictures/Regression.png)
