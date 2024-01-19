@@ -15,3 +15,13 @@ In this notebook we create a host of visualizations and look at a how a few key 
 Finally, we take a statistical look at how some of the features we visually explored in the previous notebook explain rating and price. Using ANOVA and linear regression models we see what relationships are statistically significant and visualize if our models meet the assumptions for these types of analyses.
 
 ![Alt text](https://github.com/aha1994/Running-a-Rum-Regression/blob/main/Pictures/Regression.png)
+
+
+**High Proof Predictions**
+
+In this notebook I build and tune models for predicting a rums rating and its country of origin from only its flavor profile. In the end, a Lasso Regressor is used to predict rating and a Categorical Naive Bayes Classifier is used for predicting country.
+
+
+**FeatureTesting**
+
+A notebook where experimental features are first developed. Currently looking to add a Folium leaflet choropleth map.

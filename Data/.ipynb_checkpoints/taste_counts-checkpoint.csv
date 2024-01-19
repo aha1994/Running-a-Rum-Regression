@@ -1,0 +1,225 @@
+,Taste,Count
+0,Acidic,12
+1,Agricole,139
+2,Alcoholic,477
+3,Allspice,80
+4,Almond,67
+5,Anise,168
+6,Apple,98
+7,Apricot,75
+8,Armagnac,10
+9,Astringent,59
+10,Bacon,18
+11,Baked apple,14
+12,Baking spices,42
+13,Balanced,166
+14,Banana,451
+15,Barrel,482
+16,Berries,47
+17,BicycleTube,18
+18,Bite,13
+19,Bitter,221
+20,Bitter orange,36
+21,Black pepper,133
+22,Black tea,50
+23,Blackberry,13
+24,Bourbon,46
+25,Brioche,6
+26,Brown,21
+27,Brown sugar,152
+28,Burn,18
+29,Burnt,61
+30,Burnt sugar,178
+31,Butterscotch,60
+32,Buttery,58
+33,Calvados,11
+34,Candied,78
+35,Cappuccino,26
+36,Caramel,1028
+37,Caramelized,172
+38,Cardamom,21
+39,Cedar,22
+40,Chamomile,10
+41,Charred,32
+42,Chemical,12
+43,Cherry,139
+44,Cherry wood,12
+45,Chili,13
+46,Chocolate,397
+47,Cigar,18
+48,Cinnamon,238
+49,Citrus,403
+50,Clove,73
+51,Cocoa,193
+52,Coconut,297
+53,Coffee,270
+54,Cognac,49
+55,Complex,233
+56,Concentrated,37
+57,Confections,21
+58,CookieDough,11
+59,Copper,8
+60,Cream,12
+61,Cream toffee,46
+62,Creamy,140
+63,Creme brulee,43
+64,Currants,13
+65,Dark,27
+66,Dark chocolate,399
+67,Delicious,66
+68,Demerara sugar,49
+69,Diluted,80
+70,Dirty,41
+71,Dried apricot,75
+72,Dried dates,32
+73,Dried figs,20
+74,Dried fruit,689
+75,Dry,378
+76,Earthy,128
+77,Elegant,42
+78,Espresso,17
+79,Ester,436
+80,Eucalyptus,18
+81,Fermented,67
+82,Figs,17
+83,Floral,252
+84,Flowery,42
+85,Fresh,217
+86,Fruit schnapps,55
+87,Fruitcake,19
+88,Fruits,54
+89,Fruity,778
+90,Fudge,25
+91,FullBodied,85
+92,Funky,150
+93,Ginger,83
+94,Gingerbread,14
+95,Glue,107
+96,Grapefruit,38
+97,Grapes,78
+98,Grass,201
+99,Green,26
+100,Green apple,37
+101,Green fruits,9
+102,Green pepper,49
+103,Hay,43
+104,Hazelnut,38
+105,Heavy,47
+106,Herbal,242
+107,Honey,394
+108,Honeycomb,16
+109,Hot,70
+110,Intense,357
+111,Iodine,52
+112,Leather,374
+113,Lemon,67
+114,Licorice,344
+115,Light,140
+116,Lime,106
+117,Litschi,20
+118,Malt,29
+119,Mandarin,14
+120,Mango,151
+121,Maple,38
+122,Marmalade,20
+123,Marzipan,69
+124,Meaty,18
+125,Medicinal,116
+126,Melon,15
+127,Menthol,82
+128,Metallic,47
+129,Mild,183
+130,Milk chocolate,112
+131,Mineral,69
+132,Minty,183
+133,Mirabelle plum,17
+134,Mocha,68
+135,Molasses,128
+136,Musty,22
+137,Nail polish,21
+138,Nougat,44
+139,Nutmeg,85
+140,Nutty,246
+141,Oak,568
+142,Oily,142
+143,Olive,93
+144,Orange,146
+145,OrangePeal,112
+146,Overripe,134
+147,Papaya,46
+148,Passion fruit,36
+149,Pastries,53
+150,Peaches,71
+151,Pear,95
+152,Peat,47
+153,Pecan,12
+154,Peppery,535
+155,Pineapple,423
+156,Platsic,16
+157,Plum,76
+158,Polish,18
+159,Popcorn,8
+160,Port,41
+161,Praline,11
+162,Prunes,145
+163,Pungent,23
+164,Raisin,291
+165,Raspberry,19
+166,Red fruits,112
+167,Red pepper,12
+168,Red wine,26
+169,Roasted,634
+170,Roasted almonds,32
+171,Roasted nuts,38
+172,Root,9
+173,Rough,22
+174,Round,173
+175,Rubber,163
+176,Salty,165
+177,Sharp,9
+178,Sharpness,60
+179,Sherry,97
+180,Silky,21
+181,Smoky,361
+182,Smooth,21
+183,Soap,20
+184,Soft,79
+185,Solvents,78
+186,Sour,32
+187,Sour cherry,37
+188,Spice,723
+189,Spicy,903
+190,Strawberry,35
+191,Strong,131
+192,Sugar,117
+193,Sugarcane,521
+194,Supple,25
+195,Sweet,1091
+196,Synthetic,32
+197,Syrupy,68
+198,Tannins,69
+199,Tar,162
+200,Tea,65
+201,Thick,25
+202,Thin,102
+203,Thyme,12
+204,Toasted,128
+205,Tobacco,272
+206,Toffee,134
+207,Treacle,14
+208,Tropical fruit,739
+209,Umami,9
+210,Unknown,98
+211,Vanilla,1908
+212,Varnish,52
+213,Vegetal,350
+214,Velvety,35
+215,Walnut,22
+216,Warm,137
+217,Waxes,10
+218,Whiskey,74
+219,White chocolate,9
+220,Wine,39
+221,Woody,2157
+222,Yellow fruits,60
+223,Young wood,156
