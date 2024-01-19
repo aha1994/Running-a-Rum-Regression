@@ -1,5 +1,7 @@
 Collecting, analyzing, and visualizing a rum data set!
 
+Subset of features deployed on [Streamlit](https://rum-around-the-world.streamlit.app/)
+
 **Fermenting the Features**
 
 In this file we create a script to web scrape data from the 16,222 rums on the [RumX](https://www.rum-x.com/) site at the time of scraping. We extract information we think will be relevant for future analysis such as the age, rating, price, tasting notes, and much more about each rum when available. This script utilized the request, BeautifulSoup, and Pandas libraries to clean and save the data in a CSV file (rum.csv).
